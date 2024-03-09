@@ -1,5 +1,12 @@
 using System;
 
+// added the ablity to be able to store files in csv formats
+//added a check to prevent any errors that may arise as a reult 
+//of trying t save the file in a csv format
+
+// added an addtional information to what the user must input 
+// and stored it all in an arranged manner 
+
 class Program
 {
     static void Main(string[] args)
