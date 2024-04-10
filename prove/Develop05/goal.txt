@@ -1,0 +1,1 @@
+SimpleGoal|Read the book of mormon|I will read the book of mormon for 30 mins everyday|30|False
